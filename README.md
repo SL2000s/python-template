@@ -37,4 +37,4 @@ uv init --lib
 Replace `--lib` with:
 
 * `--app` for an application
-* `--app package` for a packaged application
+* `--app --package` for a packaged application
